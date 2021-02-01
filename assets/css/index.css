@@ -1,0 +1,25 @@
+.box {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.layui-icon {
+    margin: 5px;
+}
+
+.nav {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 30px;
+}
+
+.layui-nav-img,
+.nav {
+    display: none;
+}
